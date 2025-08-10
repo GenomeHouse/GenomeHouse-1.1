@@ -1,9 +1,9 @@
 [project]
 name = "genomehouse"
-version = "1.1.0"
+version = "1.2.0"
 description = "Modular bioinformatics toolkit for sequence analysis, parsing, ML, and visualization."
 authors = [
-    { name = "GenomeHouse", email = "codewithbismillah@gmail.com" }
+    { name = "GenomeHouse", email = "mubashirali1837@gmail.com" }
 ]
 license = { file = "LICENSE" }
 readme = "README.md"

@@ -34,7 +34,7 @@ genomehouse-cli gc-content ATGCGTAC
 See the `docs/` folder for full API documentation and usage examples.
 
 ## License
-MIT
+[License](LICENSE)
 
 ## Source Code
 [GitHub Repository](https://github.com/GenomeHouse/GenomeHouse-1.1)

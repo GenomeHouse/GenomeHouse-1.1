@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
 	name="genomehouse",
-	version="1.1.0",
+	version="1.2.0",
 	description="Modular bioinformatics toolkit for sequence analysis, parsing, ML, and visualization.",
 	author="Mubashir Ali",
 	author_email="codewithbismillah@gmail.com",
@@ -19,7 +19,7 @@ setup(
 	python_requires='>=3.8',
 	entry_points={
 		'console_scripts': [
-			'genomehouse-cli=genomehouse.scripts.genomehouse_cli:main',
+			'genomehouse-cli=scripts.genomehouse_cli:main',
 		],
 	},
 	classifiers=[
